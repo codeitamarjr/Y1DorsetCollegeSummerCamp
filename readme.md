@@ -44,6 +44,8 @@ Solution: DrinkingBeer.java
 10:00 - 12:00: Revisions & Preparation with David and Wenhao
 13:00 - 16:00: Revisions & Preparation with David and Wenhao
 
+Data structure( Array, Dimensional Array, Single and Double Linked list, SET, tree) and dimensional arrays.
+
 ## Thursday 24 June - End Boss Level
 
 11:00 - 14:00: With Special Guest Bryan MCNamara 
