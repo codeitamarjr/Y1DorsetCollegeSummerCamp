@@ -1,10 +1,12 @@
 
-# Programming Summer Camp
-
-
-![Logo](https://github.com/codeitamarjr/DorsetCollegeSummerCamp/blob/master/DorsetCollegeSummerCamp.png?raw=true)
+![Logo](https://dorset.ie/wp-content/uploads/facebook-og.png)
 
     
+# Programming Summer Camp
+
+![App Screenshot](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
+
+  
 ## Tuersday 22 June - Level 1
 
 13:00 - 14:00: Storyline and characterization in Computer Game Conception
