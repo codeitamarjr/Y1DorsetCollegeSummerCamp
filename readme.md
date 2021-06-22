@@ -1,10 +1,7 @@
 
-![Logo](https://dorset.ie/wp-content/uploads/facebook-og.png)
-
-    
 # Programming Summer Camp
 
-![App Screenshot](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
+[Screen](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
 
   
 ## Tuersday 22 June - Level 1
