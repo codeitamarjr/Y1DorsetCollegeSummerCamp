@@ -9,8 +9,6 @@
 13:00 - 14:00: Storyline and characterization in computer game conception with special guest Edmund Buckley
 
 
-## Tuersday 22 June - Level 1
-
 14:00 - 16:00: Intro & First Prep with David J Keane and Wenhao FU
 
 ### Exercises prep 1:
