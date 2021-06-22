@@ -11,7 +11,7 @@
 
 ## Tuersday 22 June - Level 1
 
-14:00 - 16:00: Intro & First Prep with David and Wenhao
+14:00 - 16:00: Intro & First Prep with David J Keane and Wenhao FU
 
 ### Exercises practise 1:
 (in Flowgorithm, a graphical authoring tool) Write a program to calculate the sum and average of 1, 2, 3, ...,N where N is an
@@ -41,8 +41,9 @@ Solution: DrinkingBeer.java
 
 ## Wednesday 23 June - Level 2
 
-10:00 - 12:00: Revisions & Preparation with David and Wenhao
-13:00 - 16:00: Revisions & Preparation with David and Wenhao
+10:00 - 12:00: Revisions & Preparation with David J Keane and Wenhao FU
+
+13:00 - 16:00: Revisions & Preparation with David J Keane and Wenhao FU
 
 ## Thursday 24 June - End Boss Level
 
