@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Itamar Junior"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-06-22 02:59:49 pm"/>
+        <attribute name="created" value="SXRhbWFyIEp1bmlvcjtERVNLVE9QLTlSNExFSjg7MjAyMS0wNi0yMjswMjozMzoyMCBwbTszNjUx"/>
+        <attribute name="edited" value="SXRhbWFyIEp1bmlvcjtERVNLVE9QLTlSNExFSjg7MjAyMS0wNi0yMjswMjo1OTo0OSBwbTsxOzM3Nzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sum" type="Integer" array="False" size=""/>
+            <declare name="average" type="Integer" array="False" size=""/>
+            <declare name="number" type="Integer" array="False" size=""/>
+            <output expression="&quot;Input a positive number N:&quot;" newline="True"/>
+            <input variable="number"/>
+            <if expression="number &lt;= 0">
+                <then>
+                    <do expression="number &lt;=0">
+                        <output expression="&quot;Input a positive number N:&quot;" newline="True"/>
+                        <input variable="number"/>
+                    </do>
+                    <assign variable="sum" expression="number+1"/>
+                </then>
+                <else>
+                    <assign variable="sum" expression="number+1"/>
+                </else>
+            </if>
+            <output expression="&quot;The sum of the numbers from 1 to &quot; &amp; number" newline="True"/>
+            <output expression="&quot; is &quot; &amp;sum" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
