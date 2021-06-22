@@ -1,7 +1,7 @@
 
 # Programming Summer Camp
 
-[Screen](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
+![Screen](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
 
   
 ## Tuersday 22 June - Level 1
