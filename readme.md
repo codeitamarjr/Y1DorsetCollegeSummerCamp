@@ -6,9 +6,7 @@
   
 ## Tuersday 22 June - Level 1
 
-13:00 - 14:00: Storyline and characterization in Computer Game Conception
-
-With Special Guest Edmund Buckley
+13:00 - 14:00: Storyline and characterization in Computer Game Conception With Special Guest Edmund Buckley
 
 
 ## Tuersday 22 June - Level 1
