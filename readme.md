@@ -1,5 +1,5 @@
 
-# Programming Summer Camp
+# Ready BSc One - Programming Summer Camp
 
 ![Screen](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
 
