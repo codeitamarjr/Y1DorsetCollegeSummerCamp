@@ -1,5 +1,5 @@
 
-# Ready BSc One - Programming Summer Camp
+# Programming Summer Camp
 
 ![Screen](https://raw.githubusercontent.com/codeitamarjr/DorsetCollegeSummerCamp/master/DorsetCollegeSummerCamp.png)
 
@@ -48,3 +48,11 @@ Data structure( Array, Dimensional Array, Single and Double Linked list, SET, tr
 ## Thursday 24 June - End Boss Level
 
 11:00 - 14:00: With Special Guest Bryan MCNamara 
+
+Challenge:
+
+![Screen1](https://github.com/codeitamarjr/DorsetCollegeSummerCamp/blob/master/Question_1.png?raw=true)
+
+![Screen2](https://github.com/codeitamarjr/DorsetCollegeSummerCamp/blob/master/Question_2.png?raw=true)
+
+![Screen3](https://github.com/codeitamarjr/DorsetCollegeSummerCamp/blob/master/Question_3.png?raw=true)
